@@ -85,3 +85,23 @@ using namespace std;
 //   double cel = (fah - 32) / 1.8;
 //   cout << cel << " degrees Celsius";
 // }
+
+
+void input(int &y){
+  cout <<  "The value of y is: " << y << endl; 
+  // cout << "Enter somth: ";
+  // cin >> y; 
+
+}
+
+int main(){
+  // int x = 10;
+  // int* z = &x;
+  // cout << "value of x " << x << endl;
+  // cout << "value of z " << z << endl;
+  // cout << "value of &z " << *z << endl;
+  int y = 0; 
+  input(y);
+  // cout << y << endl;
+
+}
