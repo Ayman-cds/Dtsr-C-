@@ -89,9 +89,6 @@ using namespace std;
 
 void input(int &y){
   cout <<  "The value of y is: " << y << endl; 
-  // cout << "Enter somth: ";
-  // cin >> y; 
-
 }
 
 int main(){
